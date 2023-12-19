@@ -1,5 +1,5 @@
 Hola,
 
-como estás?
+¿Cómo estás?
 
 Equipo Laboratoria
